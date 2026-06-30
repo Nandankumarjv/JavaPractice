@@ -9,6 +9,7 @@ This repository contains my daily Java practice programs as I learn Java and pre
 - Java Basics
 - Methods
 - Condtional Statements
+- Number Programs
 
 ## 📂 Repository Structure
 
@@ -37,7 +38,6 @@ As I continue learning, I will add:
 
 - String Programs
 - Array Programs
-- Number Programs
 - Object-Oriented Programming (OOP)
 - Collections Framework
 - Exception Handling
