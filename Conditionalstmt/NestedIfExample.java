@@ -1,4 +1,3 @@
-package class5;
 
 public class NestedIfExample{
     public static void main(String[] args) {

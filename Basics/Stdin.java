@@ -1,4 +1,4 @@
-package class5;
+
 import java.util.Scanner;
 public class Stdin {
     public static void main(String[] args){

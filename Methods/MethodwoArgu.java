@@ -1,4 +1,3 @@
-package class5;
 
 public class MethodwoArgu {
     void greet() {

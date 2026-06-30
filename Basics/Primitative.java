@@ -1,5 +1,3 @@
-package class3;
-
 public class Primitative {
     public static void main(String[] args){
         String name="nandan";

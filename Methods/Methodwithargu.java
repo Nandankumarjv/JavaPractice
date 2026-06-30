@@ -1,4 +1,4 @@
-package class5;
+
 
 public class Methodwithargu {
     void greet(int a) {
