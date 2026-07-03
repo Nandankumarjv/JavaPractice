@@ -10,6 +10,7 @@ This repository contains my daily Java practice programs as I learn Java and pre
 - Methods
 - Condtional Statements
 - Number Programs
+- Loops
 
 ## 📂 Repository Structure
 
