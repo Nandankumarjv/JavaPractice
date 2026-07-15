@@ -13,6 +13,7 @@ This repository contains my daily Java practice programs as I learn Java and pre
 - Loops
 - Arrays
 - Strings
+- Object-Oriented Programming (OOP)
 
 ## 📂 Repository Structure
 
@@ -39,15 +40,13 @@ JavaPractice/
 
 As I continue learning, I will add:
 
-- Object-Oriented Programming (OOP)
+
 - Collections Framework
 - Exception Handling
 - File Handling
 - Multithreading
 - JDBC
 - Java 8 Features
-- LeetCode Solutions
-- HackerRank Solutions
 - Spring Boot
 - Mini Projects
 
